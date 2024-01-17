@@ -4,7 +4,7 @@
 
 <br/>
   
-### <div align="center">I'm a data scientist from Milan!</div>
+### <div align="center">🇪🇺 I'm a Data Scientist from Milan 🇮🇹</div>
 
 <br/>
 
