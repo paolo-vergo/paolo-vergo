@@ -1,22 +1,19 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/paolo-vergo/paolo-vergo/blob/main/header.png" align="center" style="width: 100%" />
 </div>
 
-
+<br/>
+  
 ### <div align="center">I'm a data scientist from Milan!</div>
 
+<br/>
 
 
-- 🔭 I am currently leveraging my expertise as a Machine Learning (ML) consultant at [Reply S.p.A.](https://www.reply.com/it).
+- 👨‍💻 Currently, I'm applying my expertise as a Machine Learning (ML) consultant at Reply S.p.A., where I'm deeply engaged in shaping intelligent solutions for the Italian Public Administration.
 
+- 🏛️ Notably, I've played a key role in contributing to CORA (COnversation on Real-time Analytics) — an innovative Natural Language Processing (NLP) service. CORA transforms natural language inputs into augmented graphs and queries, revolutionizing real-time analytics for the emplyees of the Public Sector.
 
-- 🌱 Our main client is the Italian Public Administration.
-A standout project I've actively contributed to is CORA (COnversation on Real-time Analytics) — an innovative Natural Language Processing (NLP) service designed to transform natural language into augmented graphs and queries.
-
-
-- ❓ This github contains repos of different nature, ranging from advanced techniques in non-parametric statistics to Computer Vision projects.
-
-
+- ❓ This GitHub hosts repositories spanning diverse domains, from 📊 pioneering techniques in non-parametric statistics forecasting to 🖥️  Computer Vision projects. Feel free to explore my work!.
 <br/>
 
 
