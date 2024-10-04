@@ -13,7 +13,7 @@
 
 - 🏛️ Notably, I've played a key role in contributing to CORA (COnversation on Real-time Analytics) — an innovative Natural Language Processing (NLP) service. CORA transforms natural language inputs into augmented graphs and queries, revolutionizing real-time analytics for the emplyees of the Public Sector.
 
-- ❓ This GitHub hosts repositories spanning diverse domains, from 📊 pioneering techniques in non-parametric statistics forecasting to 🖥️  Computer Vision projects. Feel free to explore my work!.
+- ❓ This GitHub hosts repositories spanning diverse domains, from pioneering techniques in non-parametric statistics forecasting to Computer Vision projects. Feel free to explore my work!.
 <br/>
 
 
