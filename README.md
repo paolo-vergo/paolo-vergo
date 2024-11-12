@@ -9,11 +9,11 @@
 <br/>
 
 
-- 👨‍💻 Currently, I'm applying my expertise as a Machine Learning (ML) consultant at Reply S.p.A., where I'm deeply engaged in shaping intelligent solutions for the Italian Public Administration.
+- Currently, I'm applying my expertise as a Machine Learning (ML) consultant at Reply S.p.A., where I'm deeply engaged in shaping intelligent solutions for the Italian Public Administration.
 
-- 🏛️ Notably, I've played a key role in contributing to CORA (COnversation on Real-time Analytics) — an innovative Natural Language Processing (NLP) service. CORA transforms natural language inputs into augmented graphs and queries, revolutionizing real-time analytics for the emplyees of the Public Sector.
+- Notably, I've played a key role in contributing to CORA (COnversation on Real-time Analytics) — an innovative Natural Language Processing (NLP) service. CORA transforms natural language inputs into augmented graphs and queries, revolutionizing real-time analytics for the emplyees of the Public Sector.
 
-- ❓ This GitHub hosts repositories spanning diverse domains, from pioneering techniques in non-parametric statistics forecasting to Computer Vision projects. Feel free to explore my work!.
+- This GitHub hosts repositories spanning diverse domains, from pioneering techniques in non-parametric statistics forecasting to Computer Vision projects. Feel free to explore my work!.
 <br/>
 
 
@@ -84,11 +84,4 @@
 
 
 <br/>
-
-
-## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=paolo-vergo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br/>
-
 
