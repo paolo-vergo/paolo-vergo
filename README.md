@@ -81,6 +81,10 @@
 <a href="https://www.instagram.com/pauleneen/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+<a href="https://paolo-vergo.github.io/portfolio" target="_blank">
+<img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" style="margin-bottom: 5px;" />
+</a>
+
 </div>
 
 
