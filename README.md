@@ -4,16 +4,17 @@
 
 <br/>
   
-### <div align="center">🇪🇺 I'm a Data Scientist from Milan 🇮🇹</div>
+### <div align="center">I'm a Data Scientist from Milan 🇮🇹</div>
 
 <br/>
 
 
-- Currently, I'm applying my expertise as a Machine Learning (ML) consultant at Reply S.p.A., where I'm deeply engaged in shaping intelligent solutions for the Italian Public Administration.
+- Senior ML Engineer & Project Manager at Whitehall Reply, leading cross-functional teams in delivering cutting-edge AI/ML solutions for the Italian Public Administration
 
-- Notably, I've played a key role in contributing to CORA (COnversation on Real-time Analytics) — an innovative Natural Language Processing (NLP) service. CORA transforms natural language inputs into augmented graphs and queries, revolutionizing real-time analytics for the emplyees of the Public Sector.
+- Natural Language Processing Specialist: Developed a highly-complex real-time analytics NLP service that translates natural language into actionable data insights.
 
 - This GitHub hosts repositories spanning diverse domains, from pioneering techniques in non-parametric statistics forecasting to Computer Vision projects. Feel free to explore my work!.
+- 📍 Based in Milan, Italy | Fluent in Italian (Native), English (C1), German (A2)
 <br/>
 
 
